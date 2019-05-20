@@ -1,0 +1,3 @@
+rootProject.name = 'rocketseatBootcampGonativeModulo1'
+
+include ':app'
